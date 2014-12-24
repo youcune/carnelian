@@ -1,4 +1,4 @@
-# Carnelian
+# Carnelian [![Build Status](https://travis-ci.org/youcune/carnelian.svg)](https://travis-ci.org/youcune/carnelian)
 
 Carnelian, ActiveSupport more.
 
@@ -14,7 +14,6 @@ And then execute:
 
     $ bundle
 
-
 ## Usage and Documentation
 
 * [Usage and Documentation](https://youcune.com/docs/carnelian/)
@@ -26,3 +25,4 @@ And then execute:
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request
+
