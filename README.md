@@ -16,7 +16,7 @@ And then execute:
 
 ## Usage and Documentation
 
-* [Usage and Documentation](https://youcune.com/docs/carnelian/)
+* [Usage and Documentation](http://www.rubydoc.info/github/youcune/carnelian/)
 
 ## Contributing
 
