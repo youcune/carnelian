@@ -2,6 +2,12 @@
 
 Carnelian, ActiveSupport more.
 
+## Tested Ruby Versions
+
+- 2.1.8
+- 2.2.4
+- 2.3.0
+
 ## Installation
 
 Add this line to your application's Gemfile:
